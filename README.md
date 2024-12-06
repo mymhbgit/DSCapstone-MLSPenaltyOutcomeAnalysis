@@ -8,7 +8,6 @@ This project explores the dynamics of penalty events in Major League Soccer (MLS
 ## Dataset
 - **Source**: [Kagle - Major League Soccer Dataset](https://www.kaggle.com/datasets/josephvm/major-league-soccer-dataset)
 - **Description**: The dataset comprises 5 files that record various aspects of MLS seasons, including:
-
     - **[Goalkeepers](https://github.com/mymhbgit/DataScienceatKnox/blob/main/data/all_goalkeepers.csv)**: Statistics and performance metrics for goalkeepers.
     - **[Players](https://github.com/mymhbgit/DataScienceatKnox/blob/main/data/all_players.csv)**: Individual player stats and performance data.
     - **[Tables](https://github.com/mymhbgit/DataScienceatKnox/blob/main/data/all_tables.csv)**: League standings and rankings.
@@ -29,9 +28,9 @@ The research is divided into six key topics:
 ---
 
 ## Files in the Project
-- **data/**: Contains the dataset used for analysis
-- **script/**: Contains the python script used for data processing, analysis, and modeling
-- **references/**: Holds supporting documents and external references
+- **[data](https://github.com/mymhbgit/DataScienceatKnox/tree/main/data)**: Contains the dataset used for analysis
+- **[script](https://github.com/mymhbgit/DataScienceatKnox/tree/main/script)**: Contains the python script used for data processing, analysis, and modeling
+- **[references](https://github.com/mymhbgit/DataScienceatKnox/tree/main/reference)**: Holds supporting documents and external references
 
 ---
 
