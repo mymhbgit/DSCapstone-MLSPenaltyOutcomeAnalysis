@@ -6,13 +6,15 @@ This project explores the dynamics of penalty events in Major League Soccer (MLS
 ---
 
 ## Dataset
-- **Source**: https://www.kaggle.com/datasets/josephvm/major-league-soccer-dataset
-- **Description**: The dataset comprises 5 files that record various aspects of MLS seasons, including
-    -**Goalkeepers**: Statistics and performance metrics for goalkeepers.
-    -**Players**: Individual player stats and performance data.
-    -**Tables**: League standings and rankings.
-    -**Matches**: Detailed match records and outcomes.
-    -**Events**: Specific in-game events, including penalty-related data.
+- **Source**: [Kagle - Major League Soccer Dataset](https://www.kaggle.com/datasets/josephvm/major-league-soccer-dataset)
+- **Description**: The dataset comprises 5 files that record various aspects of MLS seasons, including:
+
+    - **[Goalkeepers](https://github.com/mymhbgit/DataScienceatKnox/blob/main/data/all_goalkeepers.csv)**: Statistics and performance metrics for goalkeepers.
+    - **[Players](https://github.com/mymhbgit/DataScienceatKnox/blob/main/data/all_players.csv)**: Individual player stats and performance data.
+    - **[Tables](https://github.com/mymhbgit/DataScienceatKnox/blob/main/data/all_tables.csv)**: League standings and rankings.
+    - **[Matches](https://github.com/mymhbgit/DataScienceatKnox/blob/main/data/matches.csv)**: Detailed match records and outcomes.
+    - **[Events](https://github.com/mymhbgit/DataScienceatKnox/blob/main/data/events.csv)**: Specific in-game events, including penalty-related data.
+
 ---
 
 ## **Methodology**
@@ -35,10 +37,10 @@ The research is divided into six key topics:
 
 ## Dependencies
 This project uses the following python libraries:
--'pandas'
--'numpy'
--'matplotlib'
--'seaborn'
--'scikit-learn'
--'unidecode'
+- 'pandas'
+- 'numpy'
+- 'matplotlib'
+- 'seaborn'
+- 'scikit-learn'
+- 'unidecode'
 
